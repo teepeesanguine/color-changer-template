@@ -1,0 +1,16 @@
+/* there's nothing much going on here right now. */
+/* if you want to style your site, come back to this LAST. */
+
+body {
+  font-family: Helvetica;
+}
+
+#randomColorButton{
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+#theGrid{
+  /* you can use CSS grid if you'd like. */
+}
