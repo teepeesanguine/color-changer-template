@@ -1,7 +1,7 @@
 console.log("connected!")
 //always make sure your page connected!
 
-theBody = document.querySelector("body")
+let theBody = document.querySelector("body")
 //we can grab tags if they don't have IDs or classes!
 
 //let's make variables for r, g, and b
